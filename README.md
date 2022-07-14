@@ -8,3 +8,4 @@ This is a short technical assessment by SheCodeAfrica to get into their Cohort-4
 2. The percentage of fiction to non-fiction.
 3. Trends over the years.
 4. Top 10 Authors according to reviews.
+5. Random text
